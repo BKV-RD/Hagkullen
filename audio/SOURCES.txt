@@ -1,0 +1,8 @@
+CC0 audio used by the game
+
+Suspense music: “Ambient Horror Track 01” by Cleyton Kauffman, downloaded from https://opengameart.org/content/ambient-horror-track-01 . CC0. Original loop is 48 seconds; browser playback is slowed to 0.8x for one minute, with a 2-second fade-in and 6-second fade-out.
+
+Death scream: “Male Grunt/Yelling sounds” by HaelDB, 3yell1.wav, downloaded from https://opengameart.org/content/male-gruntyelling-sounds . CC0 option selected. Credit is included voluntarily.
+
+Bird ambience: “Ambient Bird Sounds” by isaiah658, birds-isaiah658.ogg, downloaded from https://opengameart.org/content/ambient-bird-sounds . CC0. Plays only during the bright home section and is controlled by the sound button.
+Troll laugh: Evil laugh.ogg, group recording by Freesound, sourced from Wikimedia Commons. CC0 1.0 Universal Public Domain Dedication. https://commons.wikimedia.org/wiki/File:Evil_laugh.ogg
